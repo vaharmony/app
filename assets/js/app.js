@@ -16,6 +16,10 @@ relogio=()=>{
 
     return horaatual
 }  
+
+gotop=()=>{
+   window.scrollTo(0, 0);
+}
 initapp=()=>{
     app.innerHTML=`
         <header  id="top">
@@ -79,7 +83,7 @@ initapp=()=>{
           </a>
           <a class='' href="https://www.linkedin.com/in/vinicius-harmony-699b37267/" target="_blank">
           <i class="fa-brands fa-linkedin-in"></i>
-          </a>d
+          </a>
           <a class='' href="https://github.com/harmonydigital" target="_blank" > 
           <i class="fa-brands fa-github"></i>
           </a>
@@ -418,5 +422,6 @@ initapp=()=>{
  </main>
       
     `
+    gotop()
 }
 app ? initapp() : console.log('err')
