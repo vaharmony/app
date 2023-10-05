@@ -156,7 +156,7 @@ initapp=()=>{
                                <div>
                                   <h4> Harmony Digital Flow</h4>
                                   <p>App Institucional com descrição dos serviços prestados.</p>
-                                  <a class='get-site' target='_blank' href='https://intellectx.com.br/'>
+                                  <a class='get-site' target='_blank' href='https://harmonydigital.github.io/digi/'>
                                   visite este site
                                   <i class="fa-solid fa-arrow-right"></i>
                                   </a>
