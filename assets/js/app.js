@@ -112,7 +112,7 @@ initapp=()=>{
     <div class='portfolio' id='portfolio'>
        <div class='text-content'>
           <span class='title'></span>
-          <h3>Galeria Portfólio</h3>
+          <h3> Portfólio</h3>
        </div>
        <div class='tabs-portfolio'>
           <div class="tab">
