@@ -108,6 +108,9 @@ main a.btn.primary {
  
     align-items: center;
 }
+.controls button svg{
+    color: black;
+}
 a.btn-down{
     align-items: center;
     justify-content: center;
