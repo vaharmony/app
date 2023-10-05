@@ -20,7 +20,7 @@ initapp=()=>{
     app.innerHTML=`
         <header  id="top">
             <div class='brand'><a href='index.html'>
-            Thais Mariano
+            Vinicius Araujo
             </a></div>
             <div class='menu'>
             <button onclick='menutoggleMenu()' class='btn-menu'>
@@ -66,21 +66,21 @@ initapp=()=>{
         <main>
     <div class='display'>
        <div class='content-text'>
-          <span class='title'>Thais Mariano</span>
-          <h1>Professional UX Designer.</h1>
-          <h2>Veja projetos</br>2023</h2>
+          <span class='title'>Ux Designer</span>
+          <h1>and Front-end developer.</h1>
+          <h2>Inspire</br>2023</h2>
           <a class='btn-down' href='#about'>
           <i class="fa-solid fa-chevron-down"></i>
           </a>
        </div>
        <div class='social'>
-          <a class='' href='https://www.instagram.com/thais.devfrontend/'  target="_blank">    
+          <a class='' href='https://www.instagram.com/harmonydigitalflow/'  target="_blank">    
           <i class="fa-brands fa-instagram"></i>
           </a>
-          <a class='' href="https://www.linkedin.com/in/thais-mariano-712340216/" target="_blank">
+          <a class='' href="https://www.linkedin.com/in/vinicius-harmony-699b37267/" target="_blank">
           <i class="fa-brands fa-linkedin-in"></i>
           </a>d
-          <a class='' href="https://github.com/thaisdevfront" target="_blank" > 
+          <a class='' href="https://github.com/harmonydigital" target="_blank" > 
           <i class="fa-brands fa-github"></i>
           </a>
        </div>
